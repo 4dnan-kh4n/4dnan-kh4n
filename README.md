@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Adnan Khan
+# Hey, I'm Adnan Khan
 
 ### 💻 Full Stack Developer • Backend Enthusiast • Problem Solver
 
