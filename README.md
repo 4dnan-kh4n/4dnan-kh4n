@@ -19,41 +19,30 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 🎓 Pursuing **B.Tech in Information Technology** at **UIT RGPV, Bhopal**
-
 💻 Interested in **Full Stack Development & Backend Development**
-
 🌱 Currently learning **Java & Spring Boot**
-
 ⚙️ Working with **JavaScript, Node.js, Express & MongoDB**
-
 🧠 Practicing **Data Structures & Algorithms**
-
 🚀 Building **web applications and backend projects**
-
 🎯 My goal is to build **production-ready applications** and continuously improve as a developer.
-
 ---
 
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=js,java,html,css" />
 </p>
 
 ### ⚙️ Backend & Database
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,spring" />
 </p>
 
 ### 🔧 Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
@@ -61,7 +50,6 @@
 ---
 
 # 🚀 Featured Projects
-
 <table>
 <tr>
 
