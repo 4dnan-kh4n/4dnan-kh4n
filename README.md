@@ -219,8 +219,8 @@ A simple application for creating and managing notes.
 
 ### Let's build something interesting together 🚀
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://www.linkedin.com/in/adnan-khan-743488204/?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/adnan-khan-743488204/?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/4dnan-kh4n">
