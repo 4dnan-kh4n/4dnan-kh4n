@@ -1,111 +1,190 @@
-# 👋 Hi, I'm Adnan Khan
+<div align="center">
 
-### 💻 Full Stack Developer | Backend Developer | Problem Solver
+# 👋 Hey, I'm Adnan Khan
 
-I'm a developer who enjoys building web applications, solving programming problems, and learning modern backend technologies.
+### 💻 Full Stack Developer • Backend Enthusiast • Problem Solver
 
-* 🔭 Currently building web applications and exploring backend development
-* 🌱 Currently learning **Java + Spring Boot**
-* 💻 Working with **JavaScript, Node.js, Express & MongoDB**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🚀 Interested in building scalable and practical software
-* 📍 India
+<p>
+  <a href="https://github.com/4dnan-kh4n">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=4dnan-kh4n&style=for-the-badge&color=blueviolet" />
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-Here are some of the projects I've worked on:
+```javascript
+const adnan = {
+    education: "B.Tech in Information Technology",
+    university: "UIT RGPV, Bhopal",
 
-| Project                          | Description                               |
-| -------------------------------- | ----------------------------------------- |
-| 💬 **Chat India Web App**        | Real-time/web-based communication project |
-| 🧑‍💻 **DBT Mitra**              | Web application project                   |
-| 📍 **Location Finder**           | Location-based web application            |
-| 📝 **Notes App**                 | Notes management application              |
-| 📚 **DSA Practice**              | Data Structures & Algorithms practice     |
-| 🌐 **Digital Marketing Website** | Frontend web development project          |
+    interests: [
+        "Full Stack Development",
+        "Backend Development",
+        "Data Structures & Algorithms"
+    ],
+
+    currentlyLearning: [
+        "Java",
+        "Spring Boot",
+        "Backend Development"
+    ],
+
+    goal: "Build useful software and become a better developer 🚀"
+};
+```
+
+- 🔭 Building **web applications & backend projects**
+- 🌱 Currently exploring **Java & Spring Boot**
+- 🧠 Practicing **Data Structures and Algorithms**
+- 💬 Ask me about **JavaScript, Node.js, Express & MongoDB**
+- ⚡ I enjoy turning ideas into real-world applications
 
 ---
 
-## 📊 GitHub Statistics
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4dnan-kh4n&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4dnan-kh4n&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,spring" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=4dnan-kh4n&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 💬 Chat India Web App
+
+A web-based chat application focused on communication and interactive user experiences.
+
+**Highlights:** Web Development • JavaScript
+
+<a href="https://github.com/4dnan-kh4n/Chat-India-Web-App">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤝 DBT Mitra
+
+A practical web application project focused on solving real-world problems.
+
+**Highlights:** Web Application • Development
+
+<a href="https://github.com/4dnan-kh4n/DBTMitra">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📍 Location Finder
+
+A location-based web application for working with geographical information.
+
+**Highlights:** JavaScript • Web APIs
+
+<a href="https://github.com/4dnan-kh4n/Location-Finder">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📝 Notes App
+
+A simple application for creating and managing notes.
+
+**Highlights:** CRUD • JavaScript • Web Development
+
+<a href="https://github.com/4dnan-kh4n/Notes-App">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔎 More of my work
+
+<a href="https://github.com/4dnan-kh4n?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4dnan-kh4n&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=4dnan-kh4n&theme=tokyonight&hide_border=true" />
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4dnan-kh4n&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🧩 What I'm Currently Working On
 
-<p align="center">
+```text
+🌱 Learning       → Java & Spring Boot
+🧠 Practicing     → Data Structures & Algorithms
+💻 Developing     → Full Stack Web Applications
+⚙️ Exploring      → Backend Development
+🎯 Goal           → Build production-ready projects
+```
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+### Let's build something interesting together 🚀
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/4dnan-kh4n">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn URL here -->
+<br><br>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+⭐ **Thanks for visiting my profile!**
 
-</p>
-
----
-
-<p align="center">
-  <i>⭐ Thanks for visiting my profile!</i>
-</p>
+</div>
