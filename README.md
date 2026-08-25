@@ -21,13 +21,13 @@
 ---
 ## 👨‍💻 About Me
 
-🎓 Pursuing **B.Tech in Information Technology** at **UIT RGPV, Bhopal**
-💻 Interested in **Full Stack Development & Backend Development**
-🌱 Currently learning **Java & Spring Boot**
-⚙️ Working with **JavaScript, Node.js, Express & MongoDB**
-🧠 Practicing **Data Structures & Algorithms**
-🚀 Building **web applications and backend projects**
-🎯 My goal is to build **production-ready applications** and continuously improve as a developer.
+🎓 Pursuing **B.Tech in Information Technology** at **UIT RGPV, Bhopal** </br>
+💻 Interested in **Full Stack Development & Backend Development** </br>
+🌱 Currently learning **Java & Spring Boot** </br>
+⚙️ Working with **JavaScript, Node.js, Express & MongoDB** </br>
+🧠 Practicing **Data Structures & Algorithms** </br>
+🚀 Building **web applications and backend projects** </br>
+🎯 My goal is to build **production-ready applications** and continuously improve as a developer. </br>
 ---
 
 # 🛠️ Tech Stack
@@ -190,7 +190,6 @@ A simple application for creating and managing notes.
 ---
 
 # 🧩 What I'm Currently Working On
-
 ```text
 🌱 Learning       → Java & Spring Boot
 🧠 Practicing     → Data Structures & Algorithms
@@ -198,7 +197,6 @@ A simple application for creating and managing notes.
 ⚙️ Exploring      → Backend Development
 🎯 Goal           → Build production-ready projects
 ```
-
 ---
 
 # 🤝 Connect With Me
