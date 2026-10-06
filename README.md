@@ -1,4 +1,4 @@
-# Adnan Khan — Developer Profile
+# Adnan Khan
 
 <p align="center">
   <img src="assets/hero.svg?v=1" alt="Adnan Khan animated developer hero" width="100%" />
